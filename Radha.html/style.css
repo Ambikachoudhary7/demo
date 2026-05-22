@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    color: blue;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 127, 127);
+}
+p{
+    color: blue;
+}
+ul{
+    background-color: azure;
+}
+img{
+    height: auto;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
